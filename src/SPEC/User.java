@@ -1,3 +1,5 @@
+package SPEC;
+
 public class User {
     public String Name;
     protected String Gender;

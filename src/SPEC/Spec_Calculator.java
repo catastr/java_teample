@@ -1,3 +1,5 @@
+package SPEC;
+
 public class Spec_Calculator extends Specifications {
     // 추가된 멤버 변수
     private int cut_eng;

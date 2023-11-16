@@ -1,3 +1,5 @@
+package SPEC;
+
 public class Specifications extends User {
     private String introduction;
     private int eng_score;

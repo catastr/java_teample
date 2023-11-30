@@ -7,9 +7,9 @@ public class Specifications extends User {
     private int num_career;
 
     // 생성자
-    public Specifications(String name, String gender, String major, String job,
+    public Specifications(String name,int age ,String gender, String major, String job,
                           String id, String pw, String introduction, int eng_score, int grade, int career) {
-        super(name, gender, major, job, id, pw);
+        super(name, age ,gender, major, job, id, pw);
         this.introduction = introduction;
         this.eng_score = eng_score;
         this.grade = grade;
